@@ -1,7 +1,7 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=chiefagu.chiefagu" alt="visitor badge"/>
 
 # 👋 Hi, I'm Josh
-Software programmer who enjoy exploring design patterns and architectures.  
+Software programmer who enjoys exploring design patterns and architectures.  
 I code mainly in JavaScript, but I am always learning.
 
 ## 🔧 Technologies & Tools
