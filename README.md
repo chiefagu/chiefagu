@@ -1,4 +1,4 @@
-<img src="https://visitor-badge.glitch.me/badge?page_id=chiefagu.chiefagu" alt="visitor badge"/>
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=chiefagu.chiefagu" alt="visitor badge"/> -->
 
 # 👋 Hi, I'm Josh
 Software programmer who enjoys exploring design patterns and architectures.  
