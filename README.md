@@ -17,4 +17,4 @@ I code mainly in JavaScript, but I am always learning.
 ## &#x1f4c8; GitHub Stats
 ![Frequently used](https://github-readme-stats.vercel.app/api/top-langs/?username=chiefagu&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chiefagu&count_private=true&hide=stars,contribs&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chiefagu&hide=stars,contribs&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
